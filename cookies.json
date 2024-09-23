@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1727719253.181811,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__stripe_mid",
+    "path": "/",
+    "sameSite": "strict",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "4bfa6827-eee6-4db4-9b5d-4b77515e2bc0cc770d"
+  },
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1742664324.244429,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "SRQLAlsZogXhMtMVauYBiOYCPxYHmCddaoGyDRMwyHPuJWtnsSfvMLCjKmGjzrimkOWgVGrBiSfgWlUNghSbmZltUVgmSRFdwxMLTGNmpTjEGxWtheRzKNHLBmkNZXHl"
+  },
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1727460057,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "aws-waf-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "2a06c885-7448-4006-8186-7665b5e2089f:BQoAeKd+hNMEAAAA:easFbPeT54TcOU2f9poVukbgG8Lgo+6LLBumtOTcvFGMg0DRY8Jviu6fDW3NsPfr9lfK9Z+e+IQ2woW1YLDc5K9ZRtlE0lnIt5ir68Y9BOPiPo6HeUDxrVIvBKz87i67f3M6YI5VVK7Ujb4kaxz4yYllhgnqWSUykZEI1n3cNig7KIffl8Oo4P19fVJK6zS6Pya9IIAYPM0cEHt24bx53SaF8uoHDy1y+o2vk1JsiLKC8VHP71JpJLIU2bTjRQCArLpwh0Y="
+  },
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1727116253,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__stripe_sid",
+    "path": "/",
+    "sameSite": "strict",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "e8ef3132-6cd7-4a08-acaf-3ba7f66ca2907152f9"
+  },
+  {
+    "domain": "huggingface.co",
+    "expirationDate": 1728324281.421124,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "hf-chat",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "484a0c8e-9f68-4e3d-ac70-eb72545a0e9a"
+  },
+  {
+    "domain": "huggingface.co",
+    "expirationDate": 1742664324.244325,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "token",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "SRQLAlsZogXhMtMVauYBiOYCPxYHmCddaoGyDRMwyHPuJWtnsSfvMLCjKmGjzrimkOWgVGrBiSfgWlUNghSbmZltUVgmSRFdwxMLTGNmpTjEGxWtheRzKNHLBmkNZXHl"
+  }
+]
